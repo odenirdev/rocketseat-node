@@ -1,0 +1,26 @@
+{
+    "name": "rockeatseat-node",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "dev": "nodemon server.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/odenirdev/rockeatseat-node.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/odenirdev/rockeatseat-node/issues"
+    },
+    "homepage": "https://github.com/odenirdev/rockeatseat-node#readme",
+    "dependencies": {
+        "express": "^4.17.1"
+    },
+    "devDependencies": {
+        "nodemon": "^2.0.2"
+    }
+}
